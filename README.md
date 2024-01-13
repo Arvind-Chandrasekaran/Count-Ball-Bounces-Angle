@@ -2,7 +2,7 @@
 
 Computer Vision
 
-Program that counts the number of times a ball bounces after colliding with a wall. 
+Program that counts the number of times a ball bounces after colliding with a wall - based on the angle it deviates.
 
 Libraries:
 1 OpenCV
